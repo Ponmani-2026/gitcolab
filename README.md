@@ -1,3 +1,4 @@
+Rectified the error fun2 in python
 Rectify the error
 Hi 
 
